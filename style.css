@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#freelancer-ad {
+  border: 1px solid black;
+  width: 80vw;
+  height: auto;
+  /* display: grid; */
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+#headers {
+  display: flex;
+  justify-content: space-around;
+}
